@@ -6,4 +6,5 @@ Created API test autoamtion framework using below tools for SkyScanner applicati
 3. Maven
 4. TestNG
 
-![image](https://github.com/Suganya143/skyscanner-apitest-framework/assets/121900344/a9bc2466-1e98-4e4a-b3e7-5fd0b819fd88)
+![image](https://github.com/Suganya143/skyscanner-apitest-framework/assets/121900344/61142717-a1fd-4243-9d20-64fa1ef28ea2)
+
